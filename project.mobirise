@@ -1,0 +1,443 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f7da64",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Oswald",
+        "subtitleFont": "PT Sans",
+        "textFont": "PT Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.10.1",
+    "uniqCompNum": 20,
+    "versionPublish": "4.7.2",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#f3c649"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yellow-honeycomb-2000x1250-43.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Queen Bee",
+          "text": "<b>Hardworking. Co-operative. Vital.<br>Your new personal concierge service</b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#features6-0\" data-toolbar=\"-mbrBtnMove\">Buzz In</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-0",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hourglass",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Virtual Assistant",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "If you've ever wanted a 25th hour in the day, <br>you need Queen Bee.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "chat",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Personal Tutoring",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "If you or your children need extra help with learning, <br>Queen Bee is here.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hotairballoon",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Fun and Games",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "If you need an interesting, interactive quiz or tour of Leicester, just ask Queen Bee.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "key",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "B&amp;B",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Come into the hive...<br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/long-bees-sunflower-2000x800-21.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Virtual Assistant",
+          "text": "<p>Queen Bee's personal service will free up your schedule for what you do best</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "OL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Whether you're a busy business; an eager entrepreneur or an inundated individual, Queen Bee can share your workload.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You might need:</span></p><ul><li>Catering solutions</li><li>Copyediting</li><li>Errands</li><li>Gift buying</li><li>House sitting</li><li>Office administration</li><li>Restaurant and theatre bookings</li><li>Travel and holiday planning</li><li>Whatever crops up...</li></ul><p><br></p><p>With over 10 years of experience in operational and logistical management, from across industries as diverse as Sports, Travel and Youth Training, Queen Bee is sure to be able to assist you with your projects.&nbsp;</p><p><br></p><p>Prices vary depending on the service required, but &nbsp;start from as little as £20 per hour. Please call the hive to discuss your requirements.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/long-drip-honey-2000x800-10.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Personal Tutor",
+          "text": "Queen Bee will provide the spoonful of honey to make the medicine go down",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "From primary school through to university and beyond, Queen Bee has an experienced tutor waiting to get you buzzing about learning.<div><br></div><div>Sessions can take place in a local library, cafe or at your home and will address any topics that you or your children are struggling with.&nbsp;</div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">Personal tutoring is charged at £20 per hour and can cater for up to 2 students at a time.</span></div><div><br></div><div><br></div>",
+          "text2": "<p><b>Tutoring</b></p><p><b><br></b></p><p>KS2 - KS5 Maths</p><p>KS2 Science (please enquire if you would like secondary school Biology or Chemistry tuition)</p><p>KS3 - KS5 Physics</p><p>KS2 - KS5 English Literature and Language</p><p>KS2 - KS4 History</p><p>11+ and 13+ examinations</p><p><br></p><p>English As Another Language written activities and speaking practice</p>",
+          "text3": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Proof Reading</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Queen Bee will check over university assignments for style and grammar and make corrections as required.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Proof reading is charged at £20 per 1000 words.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">For some subjects, written feedback on content can be provided for an additional fee.<br></span><br></p><div><br></div><div><br></div><p></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/long-bees-and-flowers-2000x800-19.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Fun and Games",
+          "text": "Tours, quizzes and treasure hunts; &nbsp;the hive has it all",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Leicester City Walking Tours</b></p><p>Learn more about your diverse, vibrant and interesting city by taking one of our unique walking tours. Available throughout the year, these walking tours will give you insight into the history of Leicester and let you explore the area in more depth and cover a range of inetrests. Knowledgeable and personable locals lead these tours, which are generally suitable for over 16s (we think it can get a bit dull for the more energetically aged).</p><p><br></p><p><i>Foxy Food</i> - 3 hours £30pp includes tastings from the vast range of world cuisines on offer in Leicester</p><p><i>Kings and Cardinals</i> - 2 hours £25pp includes tickets to the KRIII museum</p><p><i>Sporting Heroes</i> - 2 hours £15pp + can add tickets to &nbsp;Basketball, Cricket and Rugby matches</p><p><br></p>",
+          "text2": "<p><b>Interactive Learning Days</b></p><p>Visit New Walk Museum, The National Space Centre or Newarke Houses and create an exciting project from the day or week. These trips will ensure your children get the most out of their museum visit, learn loads and make progress in their investigative skills. Our enhanced nanny service is perfect for school holidays to make sure your kids' brain cells stay active. Queen Bee is DBS checked and has First Aid certification as well as a wealth of experience in delivering learning activities.</p><p><br></p><p>Supervision from 8:30am to 5:30pm for up to 4 children &nbsp;aged 10 to 15 (year 6 to year 10).</p><p>1 day - £150&nbsp;</p><p>3 days - £400</p><p>Entrances, travel and food all expensed in addition to daily rate</p><p><br></p>",
+          "text3": "<p><b>Quizzes and Treasure Hunts</b></p><p>Queen Bee will create and deliver bespoke quizzes and treasure hunts for your business, school class, sports team, social group, hen do or stag party. General Knowledge Pub Quizzes are our speciality but we're happy to take suggestions to put together your perfect brain teasing package.</p><p><br></p><p>Prices and samples on request.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-c",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/honeycomb-with-bees-long-2000x800-62.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Inside the hive",
+          "text": "<p><b>Call: 07855764121 &nbsp;</b></p><p><b>Email: &nbsp;le3queenbee@gmail.com</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pollen-bee-long-2000x800-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Follow Us",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    }
+  }
+}
