@@ -133,8 +133,9 @@
               "name": "hourglass",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#content2-5",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Virtual Assistant",
@@ -148,8 +149,9 @@
               "name": "chat",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#content7-i",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Personal Tutoring",
@@ -163,8 +165,9 @@
               "name": "hotairballoon",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "index.html#content7-a",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Fun and Games",
